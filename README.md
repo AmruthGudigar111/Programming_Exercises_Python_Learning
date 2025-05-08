@@ -2,4 +2,4 @@
 Simple Python Programs for Practice
 
 1. Palindrome Code Check
-2. 
+2. Inheritance of Multiple Class in Python
